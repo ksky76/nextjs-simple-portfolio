@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 **Project version**: `1.0` <br/>
 **Project Author**: `xanax` <br/>
 **NextJS version**: `14.2.6` <br/>
-**Ideas**: `Pinterest Sites`
+**Ideas**: `All ideas is frome pinterest.com`
 
 ### Project look
 
