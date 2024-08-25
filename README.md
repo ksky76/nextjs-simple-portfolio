@@ -2,7 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+**Project name**: `Simple portfolio` <br/>
+**Project version**: `1.0` <br/>
+**Project Author**: `xanax` <br/>
+**NextJS version**: `14.2.6` <br/>
+**Ideas**: `Pinterest Sites`
+
+### Project look
+
+```javascript 
+img-1
+img-2 
+img-3
+img-4
+```
+
+
+
+How to run the NextJS server:
 
 ```bash
 npm run dev
@@ -20,7 +37,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Learn More about NextJS
 
 To learn more about Next.js, take a look at the following resources:
 
